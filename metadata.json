@@ -1,0 +1,7 @@
+{
+  "name": "SQL Interview Master",
+  "description": "An AI-powered SQL technical interview platform featuring a chat-based interviewer (Dawn) and a live SQL execution environment powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
